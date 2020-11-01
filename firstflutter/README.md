@@ -16,7 +16,7 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 ##  获取pubspec.yaml的最新依赖dependencies 
   ```
-  flutter packages get:
+  flutter packages get
   
   ```
 ## layout-manager-article
